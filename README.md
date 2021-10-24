@@ -1,7 +1,4 @@
-## 
-
-<img alt="Night Coding" src="./assets/Hand_Wave.gif" width='40' align="left"/><h2>Hi all, I'm thonny(Vasily)</h2>
-
+## 👋Hi all, I'm thonny(Vasily)
 
 ## I'm a Developer
 - 📍 I’m From Russia (Taganrog)

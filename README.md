@@ -1,4 +1,5 @@
-### Hi all, I'm thonny(Vasily)👋
+### 
+<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/>Hi all, I'm thonny(Vasily)👋
 
 ## I'm a Developer
 

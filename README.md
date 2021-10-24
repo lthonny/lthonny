@@ -1,4 +1,4 @@
-## 👋Hi all, I'm thonny(Vasily)
+## 👋 Hi all, I'm thonny(Vasily)
 
 ## I'm a Developer
 - 📍 I’m From Russia (Taganrog)

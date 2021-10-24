@@ -1,8 +1,9 @@
-### 
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/>Hi all, I'm thonny(Vasily)👋
+## 
+
+<img alt="Night Coding" src="./assets/Hand_Wave.gif" width='40' align="left"/><h2>Hi all, I'm thonny(Vasily)</h2>
+
 
 ## I'm a Developer
-
 - 📍 I’m From Russia (Taganrog)
 - 💻 0.6+ Years Experience in Front-end & Back-end Development(I have no commercial job)
 - 👨‍💻 Front-end Enthusiast & Back-end Enthusiast

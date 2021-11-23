@@ -2,7 +2,7 @@
 
 ## I'm a Developer
 - 📍 I’m From Russia (Taganrog)
-- 💻 0.6+ Years Experience in Front-end & Back-end Development(I have no commercial job)
+- 💻 0.7+ Years Experience in Front-end & Back-end Development(I have no commercial job)
 - 👨‍💻 Front-end Enthusiast & Back-end Enthusiast
 
 ### 🤝 Connect with me:
